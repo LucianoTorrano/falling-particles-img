@@ -6,7 +6,7 @@ The idea of using this format (base64) its becouse you need to store information
 you have. If the pixel brightness is high the particle will fall slowly and you will be able to see the animation better.
 <br>
 <br>
-You can check the effect here: https://lucianotorrano.github.io/falling-particles-img.github.io/
+You can check the effect here: https://lucianotorrano.github.io/falling-particles-img.github.io/<br><br>
 <b>Here's a GIF of the particle effect (In reality the effect is more fluent, but the only way to show the effect here is with a GIF)</b>
 <br>
 
@@ -31,5 +31,5 @@ Efecto de particulas hecho con HTML5 (canvas) y Javascript(POO). Para que la ani
  con 'mappedImg[this.position1][this.position2][0]' En esa posición habiamos almacenado el brillo en el paso 5).<br>
 7) En la función init() creamos el arreglo de particulas y finalmente en la función animate llamamos a los metodos de la clase Particle para que se actualice la posición de cada particula en la imagen.
 
-
+<br><br>
 Pueden visualizar el efecto acá: https://lucianotorrano.github.io/falling-particles-img.github.io/
