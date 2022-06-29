@@ -16,7 +16,7 @@ myImage.addEventListener('load',()=>{
 
     // variables
     let particlesArray = [];
-    const numOfParticles = 5000;
+    const numOfParticles = 9000;
     let mappedImg = [];
     // Descompongo la informacion de color de cada pixel
     for(let y = 0; y < canvas.height; y++){
